@@ -1,4 +1,4 @@
-print("TEST - script is running")
+
 import random
 
 def number_guess_game():
